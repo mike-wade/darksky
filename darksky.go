@@ -7,7 +7,7 @@ import (
 
 // DarkSky API endpoint
 var (
-	BaseUrl = "https://api.darksky.net/forecast"
+	BaseUrl = "https://api.pirateweather.net/forecast"
 )
 
 // DarkSky Api client
