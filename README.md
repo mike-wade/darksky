@@ -1,7 +1,7 @@
 # DarkSky
 
 
-[![GoDoc](https://godoc.org/github.com/shawntoffel/darksky?status.svg)](https://godoc.org/github.com/shawntoffel/darksky) [![Go Report Card](https://goreportcard.com/badge/github.com/shawntoffel/darksky)](https://goreportcard.com/report/github.com/shawntoffel/darksky) [![CircleCI](https://circleci.com/gh/shawntoffel/darksky.svg?style=svg)](https://circleci.com/gh/shawntoffel/darksky)
+[![GoDoc](https://godoc.org/github.com/mike-wade/darksky?status.svg)](https://godoc.org/github.com/mike-wade/darksky) [![Go Report Card](https://goreportcard.com/badge/github.com/mike-wade/darksky)](https://goreportcard.com/report/github.com/mike-wade/darksky) [![CircleCI](https://circleci.com/gh/mike-wade/darksky.svg?style=svg)](https://circleci.com/gh/mike-wade/darksky)
 
 Dark Sky API client in Go https://darksky.net/dev/docs
 
@@ -11,7 +11,7 @@ This assumes you already have a working Go environment, if not please see
 [this page](https://golang.org/doc/install) first.
 
 ```sh
-go get github.com/shawntoffel/darksky
+go get github.com/mike-wade/darksky
 ```
 
 ### Usage
@@ -19,7 +19,7 @@ go get github.com/shawntoffel/darksky
 Import the package into your project.
 
 ```go
-import "github.com/shawntoffel/darksky"
+import "github.com/mike-wade/darksky"
 ```
 
 Construct a new DarkSky client
