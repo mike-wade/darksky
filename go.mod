@@ -1,3 +1,3 @@
-module github.com/shawntoffel/darksky
+module github.com/mike-wade/darksky
 
 go 1.12
